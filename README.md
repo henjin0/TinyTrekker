@@ -38,7 +38,7 @@ Key features:
 | MD-1 (ESC) | https://kondo-robot.com/product/40451 | 1 |
 | TURBO RACING P52(Within receiver) | https://yoyohobby.com/products/turbo-racing-p52-91804g-vt-2-4g-%E9%80%81%E4%BF%A1%E6%A9%9F-%E6%8A%80%E9%81%A9%E8%AA%8D%E8%A8%BC%E6%B8%88%E3%81%BF%E3%83%97%E3%83%AD%E3%83%9D%E3%82%BB%E3%83%83%E3%83%88-%E7%9D%80%E8%84%B1%E5%BC%8F%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E3%83%A9%E3%82%B8%E3%82%B3%E3%83%B3%E3%82%AB%E3%83%BCrc%E3%83%9C%E3%83%BC%E3%83%88%E7%94%A8 | 1 |
 
-# Number of parts to be 3D printed
+# BOM(3d print parts)
 
 | parts | recommended material(FFF) | Qty. |
 | - | - | - |
